@@ -10,7 +10,7 @@ The model builds a decision tree by selecting features that provide the best sep
 
 ---
 
-# 🎯 Problem Statement
+# 🎯 Problem Statements
 
 The objective of this project is to build a classification model using the **C5.0 algorithm** to predict a categorical target variable based on relevant input features.
 
