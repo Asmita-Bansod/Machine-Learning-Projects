@@ -1,4 +1,4 @@
-nternet Usage Clustering Analysis
+Internet Usage Clustering Analysis
 
 Project Overview
 
